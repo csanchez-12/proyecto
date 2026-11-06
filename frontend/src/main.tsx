@@ -7,6 +7,4 @@ createRoot(document.getElementById('raiz')!).render(
   <StrictMode>
     <App  />
   </StrictMode>,
-
-
 )
